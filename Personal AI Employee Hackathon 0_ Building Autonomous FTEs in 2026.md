@@ -23,15 +23,6 @@ This architecture solves the "lazy agent" problem by using "Watchers" to wake th
 
 This is an exceptional technical hackathon project. It moves beyond "prompt engineering" into "agent engineering." It provides a complete, viable path to building a functional autonomous agent using tools available in 2026 (or today).
 
-**Research and Show Case Meeting Every Wednesday:**  
-We will be holding a Research Meeting every Wednesday at 10:00 pm on Zoom all of you are welcome to join, the first meeting will be held on Wednesday, Jan 7th, 2026:
-
-[https://us06web.zoom.us/j/87188707642?pwd=a9XloCsinvn1JzICbPc2YGUvWTbOTr.1](https://us06web.zoom.us/j/87188707642?pwd=a9XloCsinvn1JzICbPc2YGUvWTbOTr.1)
-
-* *Meeting ID:* 871 8870 7642  
-* *Passcode:* 744832
-
-If the Zoom meeting is full, you may watch live or recording at:
 
 [https://www.youtube.com/@panaversity](https://www.youtube.com/@panaversity) 
 
