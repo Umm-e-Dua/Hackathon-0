@@ -159,8 +159,6 @@ Start here based on your needs:
 ### 🎓 I Want to Understand Architecture
 → Read: **[Technical Details](#technical-details)** below
 
-### 📚 I Want Full Hackathon Details
-→ Read: **[Personal AI Employee Hackathon 0_ Building Autonomous FTEs in 2026.md](Personal%20AI%20Employee%20Hackathon%200_%20Building%20Autonomous%20FTEs%20in%202026.md)**
 
 ---
 
@@ -467,9 +465,6 @@ Handles approval workflow:
 - [Building Claude Agent Teams](https://www.youtube.com/watch?v=0J2_YGuNrDo)
 - [Claude Agent Skills](https://www.youtube.com/watch?v=nbqqnl3JdR0)
 
-### Community
-- Hackathon Discussion: [Research Meeting on Zoom](https://us06web.zoom.us/j/87188707642?pwd=a9XloCsinvn1JzICbPc2YGUvWTbOTr.1)
-- Recording & Materials: [@panaversity on YouTube](https://www.youtube.com/@panaversity)
 
 ---
 
@@ -531,7 +526,6 @@ Before submitting to hackathon:
 - [ ] Demo video recorded (5-10 min)
 - [ ] GitHub repository public/shared
 - [ ] Tier declaration: Bronze ✅
-- [ ] Submit via form: [Submission Form](https://forms.gle/JR9T1SJq5rmQyGkGA)
 
 ---
 
